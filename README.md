@@ -19,7 +19,7 @@ gabriel = {
     "área":        "Backend Development",
     "status":      "Aprendendo e construindo todos os dias 🚀",
     "foco_atual":  ["Python", "APIs REST", "SQL"],
-    "meta_2025":   "Criar projetos reais e contribuir com open source",
+    "meta_2026":   "Criar projetos reais e contribuir com open source",
     "curiosidade": "Cada bug resolvido é uma vitória! 🐛✅"
 }
 ```
