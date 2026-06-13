@@ -17,7 +17,7 @@ gabriel = {
     "nome":        "Gabriel Carmo",
     "área":        "Backend Development",
     "status":      "Construindo todo dia — rumo ao primeiro deploy! 🚀",
-    "aprendendo":  ["Python", "Git & GitHub", "APIs REST"],
+    "aprendendo":  ["Python", "Flask", "APIs REST", "SQLite"],
     "meta_2026":   "Publicar minha primeira API em produção",
     "curiosidade": "Cada bug resolvido é uma vitória! 🐛✅"
 }
@@ -30,6 +30,7 @@ gabriel = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,6 +39,7 @@ gabriel = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -48,6 +50,7 @@ gabriel = {
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🗒️ [tasks-cli](https://github.com/gabriell-carmo/tasks-cli) | Gerenciador de tarefas via linha de comando | Python, Git |
+| 📞 [api-contatos](https://github.com/gabriell-carmo/api-contatos) | API REST de contatos com CRUD completo | Python, Flask, Postman |
 
 ---
 
