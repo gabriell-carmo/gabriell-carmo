@@ -17,7 +17,7 @@ gabriel = {
     "nome":        "Gabriel Carmo",
     "área":        "Backend Development",
     "status":      "Construindo todo dia — rumo ao primeiro deploy! 🚀",
-    "aprendendo":  ["Python", "Flask", "APIs REST", "SQLite"],
+    "aprendendo":  ["Python", "Flask", "SQLite", "APIs REST"],
     "meta_2026":   "Publicar minha primeira API em produção",
     "curiosidade": "Cada bug resolvido é uma vitória! 🐛✅"
 }
@@ -31,6 +31,7 @@ gabriel = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,7 +51,7 @@ gabriel = {
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🗒️ [tasks-cli](https://github.com/gabriell-carmo/tasks-cli) | Gerenciador de tarefas via linha de comando | Python, Git |
-| 📞 [api-contatos](https://github.com/gabriell-carmo/api-contatos) | API REST de contatos com CRUD completo | Python, Flask, Postman |
+| 📞 [api-contatos](https://github.com/gabriell-carmo/api-contatos) | API REST com CRUD completo, filtros, paginação e banco de dados | Python, Flask, SQLite, Postman |
 
 ---
 
