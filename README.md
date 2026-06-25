@@ -16,8 +16,8 @@
 gabriel = {
     "nome":        "Gabriel Carmo",
     "área":        "Backend Development",
-    "status":      "Construindo todo dia — rumo ao primeiro deploy! 🚀",
-    "aprendendo":  ["Python", "Flask", "SQLite", "APIs REST"],
+    "status":      "Finalizando meu plano de 30 dias de backend! 🚀",
+    "stack":       ["Python", "Flask", "SQLite", "APIs REST", "Git"],
     "meta_2026":   "Publicar minha primeira API em produção",
     "curiosidade": "Cada bug resolvido é uma vitória! 🐛✅"
 }
@@ -41,6 +41,7 @@ gabriel = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 </div>
 
@@ -52,6 +53,7 @@ gabriel = {
 |--------|-----------|-------------|
 | 🗒️ [tasks-cli](https://github.com/gabriell-carmo/tasks-cli) | Gerenciador de tarefas via linha de comando | Python, Git |
 | 📞 [api-contatos](https://github.com/gabriell-carmo/api-contatos) | API REST com CRUD completo, filtros, paginação e banco de dados | Python, Flask, SQLite, Postman |
+| 🔗 [url-shortener](https://github.com/gabriell-carmo/url-shortener) | Encurtador de URLs com redirecionamento e estatísticas de acesso | Python, Flask, SQLite, Railway |
 
 ---
 
