@@ -16,8 +16,9 @@
 gabriel = {
     "nome":        "Gabriel Carmo",
     "área":        "Backend Development",
+    "status":      "Plano de 30 dias concluído — primeira API em produção! 🚀",
     "stack":       ["Python", "Flask", "SQLite", "APIs REST", "Git"],
-    "meta_2026":   "Publicar minha primeira API em produção",
+    "meta_2026":   "Evoluir como desenvolvedor backend e contribuir com projetos reais",
     "curiosidade": "Cada bug resolvido é uma vitória! 🐛✅"
 }
 ```
@@ -48,11 +49,11 @@ gabriel = {
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🗒️ [tasks-cli](https://github.com/gabriell-carmo/tasks-cli) | Gerenciador de tarefas via linha de comando | Python, Git |
-| 📞 [api-contatos](https://github.com/gabriell-carmo/api-contatos) | API REST com CRUD completo, filtros, paginação e banco de dados | Python, Flask, SQLite, Postman |
-| 🔗 [url-shortener](https://github.com/gabriell-carmo/url-shortener) | Encurtador de URLs com redirecionamento e estatísticas de acesso | Python, Flask, SQLite, Railway |
+| Projeto | Descrição | Tecnologias | Deploy |
+|--------|-----------|-------------|--------|
+| 🗒️ [tasks-cli](https://github.com/gabriell-carmo/tasks-cli) | Gerenciador de tarefas via linha de comando | Python, Git | — |
+| 📞 [api-contatos](https://github.com/gabriell-carmo/api-contatos) | API REST com CRUD completo, filtros, paginação e banco de dados | Python, Flask, SQLite | — |
+| 🔗 [url-shortener](https://github.com/gabriell-carmo/url-shortener) | Encurtador de URLs com redirecionamento e estatísticas de acesso | Python, Flask, SQLite | [🌐 Online](https://web-production-f4fdb.up.railway.app) |
 
 ---
 
