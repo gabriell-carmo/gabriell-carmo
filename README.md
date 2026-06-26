@@ -16,7 +16,7 @@
 gabriel = {
     "nome":        "Gabriel Carmo",
     "área":        "Backend Development",
-    "status":      "Plano de 30 dias concluído — primeira API em produção! 🚀",
+    "status":      "Primeira API em produção! 🚀",
     "stack":       ["Python", "Flask", "SQLite", "APIs REST", "Git"],
     "meta_2026":   "Evoluir como desenvolvedor backend e contribuir com projetos reais",
     "curiosidade": "Cada bug resolvido é uma vitória! 🐛✅"
