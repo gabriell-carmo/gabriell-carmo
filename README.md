@@ -87,6 +87,4 @@ gabriel = {
 
 *"Primeiro faça funcionar, depois faça bonito, depois faça rápido."* — Kent Beck
 
-⭐ **Se algum projeto te ajudou, deixa uma estrela!**
-
 </div>
